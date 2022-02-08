@@ -472,8 +472,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4d8005300d0ed6469001fb07984f3ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textoEditable: {fileID: 0}
-  colorTexto: {r: 0, g: 0, b: 0, a: 0}
+  textoEditable: {fileID: 700765295}
+  colorTexto: {r: 0.8584906, g: 0.10123708, b: 0.10123708, a: 1}
 --- !u!4 &1295675833
 Transform:
   m_ObjectHideFlags: 0
