@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
     void MostrarHistoria()
     {
         textoHistoria.gameObject.SetActive(true);
-        textoHistoria.text = historia;
+        textoHistoria.text = string.Format(historia, palabrasGuardadas);
 
         textoPreguntas.gameObject.SetActive(false);
         botonRespuesta.SetActive(false);
