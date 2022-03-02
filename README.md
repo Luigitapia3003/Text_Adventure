@@ -9,6 +9,10 @@ Para descargar este proyecto necesitas correr el siguiente comando en tu termina
 ```bash
 git clone https://github.com/Luigitapia3003/Text_Adventure
 ```
+### To Do 
+- [ ] Hacer core mechanics
+- [x] hacer un game loop
+- [ ] OwO
 
 ### Requisitos
 
